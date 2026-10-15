@@ -1,18 +1,27 @@
-# ModelamientoSoftware_CP1
+ModelamientoSoftware_CP1
 
-**Estudiante:** Jeremy Armando Vélez Carranza  
-**Asignatura:** Modelamiento de Software — UNEMI  
-**Caso de estudio:** MercadoClick, sistema de comercio electrónico.
+Estudiante: Jeremy Armando Vélez Carranza
 
-## Descripción
-MercadoClick es una plataforma web y móvil para consultar productos, gestionar carrito, realizar pedidos y consultar su estado. El inventario, la preparación y la entrega involucran personal operativo; el pago con tarjeta usa una pasarela externa.
+Asignatura: Modelamiento de Software
 
-## Diagramas
-- `TPE1_Casos_de_Uso/`: casos de uso (PNG, editable Draw.io y fuente DOT).
-- `TPE2_Interacciones/`: comunicación y secuencia (PNG, editables Draw.io y fuentes DOT).
+Universidad: Universidad Estatal de Milagro (UNEMI)
 
-## Nota de revisión
-Los diagramas de interacción representan el escenario de compra. La secuencia incluye una notificación final adicional, como en el TPE2. La relación `«include»` con pago se debe interpretar para el flujo de pago con tarjeta; el pago puede ser condicional según el medio elegido. Los archivos `.drawio` pueden abrirse en diagrams.net y, si se desea, importarse a Lucidchart según compatibilidad de la cuenta.
+Caso de estudio: MercadoClick
 
-## Entrega
-Publicar este contenido en un repositorio personal **público** llamado `ModelamientoSoftware_CP1`, copiar el enlace y adjuntar capturas reales del repositorio al PDF integrador.
+MercadoClick es un sistema de comercio electrónico que permite a los clientes consultar productos, gestionar su carrito de compras, realizar pedidos y efectuar pagos mediante una pasarela externa.
+
+Diagramas UML
+
+Trabajo Práctico Experimental 1
+
+Diagrama de casos de uso.
+
+Trabajo Práctico Experimental 2
+
+Diagrama de comunicación.
+
+Diagrama de secuencia.
+
+Objetivo del repositorio
+
+Integrar, organizar y documentar los diagramas UML desarrollados durante los trabajos prácticos experimentales 1 y 2, manteniendo la coherencia del modelamiento del sistema MercadoClick.
